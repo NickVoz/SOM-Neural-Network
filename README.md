@@ -1,10 +1,10 @@
 # SOM-Neural-Network
 
-Implementation of [https://en.wikipedia.org/wiki/Self-organizing_map](Self-Organizing Map) algorithm in Python.
+Implementation of [Self-Organizing Map](https://en.wikipedia.org/wiki/Self-organizing_map) algorithm in Python.
 
 
 ## Prerquirements
- - [https://github.com/alexkaz2/hexalattice](hexalattice) for graphical display of the hexagonal grid
+ - [hexalattice](https://github.com/alexkaz2/hexalattice) for graphical display of the hexagonal grid
     - can be installed using `pip install hexalattice`
   - Python 3 and above
   - Tested on Linux, might run on Windows as well
